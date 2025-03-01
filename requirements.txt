@@ -1,0 +1,9 @@
+streamlit==1.30.0
+python-docx==0.8.11
+pydantic==1.10.13
+altair==5.2.0
+numpy==1.26.4
+pandas==2.1.4
+pyarrow==14.0.1
+typing-extensions==4.9.0
+tzdata==2023.4
